@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 75c013bdb54549842a71fcb1b1f7c35e
+timeCreated: 1529831446
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DFYuan Std
+  fontNames:
+  - DFYuan Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
